@@ -1,7 +1,6 @@
 # Levine-GEOG678-Fall2026
 GEOG678_online_Fall2026_TAMU
-1. Ansley Levine
-2. Table
+Ansley Levine
 # WebGIS
 GEOG 678
 
